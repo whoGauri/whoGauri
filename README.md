@@ -1,5 +1,10 @@
-## Projects
+<p align="center">
+# Hi, I am Gauri
 
+</p>
+<p align="center">
+## Projects
+</p>
 ### SIH 2026 — Legal Metrology
 Team project developed for Smart India Hackathon'26.
 
