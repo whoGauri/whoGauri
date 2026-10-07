@@ -1,6 +1,6 @@
 <p align="center">
   
-## Hi, I am Gauri
+# Hi, I am Gauri
 
 </p>
   
