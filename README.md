@@ -3,7 +3,7 @@
 # Hi, I'm Gauri 👋
 
 B.Tech CSE student specializing in Artificial Intelligence.
-
+Exploring Data Analysis.
   
 ## Projects
 ### SIH 2026 — Legal Metrology
