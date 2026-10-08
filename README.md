@@ -15,7 +15,7 @@ Team project developed for Smart India Hackathon'26.<br>
 
 ### SafarShield - Smart Tourist Safety Monitoring and Incident Response System {currently under development]
 
-Mini Project 2026 [Sem 3]<br>
+Mini Project 2026 [Sem 3]<br><br>
 [x] Project planning & literature review
 [x] Dataset collection and analysis — Google Forms, Google Sheets
 [ ] Database: MySQL
