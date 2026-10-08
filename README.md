@@ -13,7 +13,7 @@ Team project developed for Smart India Hackathon'26.<br>
 
 [Project's Link] 🔗 (https://github.com/whoGauri/sih2026-legal-metrology)
 
-### ⭐ Mini Project'26 [Sem 3] <br>SafarShield - Smart Tourist Safety Monitoring and Incident Response System <br>
+### ⭐ Mini Project'26 [Sem 3] <br>SafarShield - Smart Tourist Safety Monitoring and Incident Response System
 {currently under development}
 
 ☑️ Project planning & literature review<br>
