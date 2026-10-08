@@ -5,7 +5,7 @@
 B.Tech CSE student specializing in Artificial Intelligence.<br>
 Exploring Data Analysis.
   
-## Projects
+## Projects 📂
 ### SIH 2026 — Legal Metrology
 
 Team project developed for Smart India Hackathon'26.<br>
