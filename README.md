@@ -16,8 +16,7 @@ Team project developed for Smart India Hackathon'26.<br>
 ### ⭐ Mini Project'26 [Sem 3] <br>SafarShield - Smart Tourist Safety Monitoring and Incident Response System
 *currently under development* ⌛
 
-☑️ Project planning & literature review<br>
-☑️ Dataset collection and analysis — Google Forms, Google Sheets<br>
+☑️ Dataset collection, analysis and normalization — Google Forms, Google Sheets<br>
 ⬜ Database: MySQL<br>
 ⬜ Frontend development {HTML, CSS, JavaScript}<br>
 ⬜ Backend development {Python, Flask<br>
