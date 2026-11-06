@@ -17,7 +17,7 @@ Team project developed for Smart India Hackathon'26.<br>
 *currently under development* ⌛
 
 ☑️ Dataset collection, analysis and normalization — Google Forms, Google Sheets<br>
-⬜ Database: MySQL<br>
+☑️ Database: MySQL<br>
 ⬜ Frontend development {HTML, CSS, JavaScript}<br>
 ⬜ Backend development {Python, Flask<br>
 ⬜ Testing & final integration<br>
